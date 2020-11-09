@@ -1,1 +1,7 @@
-print("Hello,This is day02")
+def Test():
+    print("I just wanna change")
+
+
+
+if __name__ == '__main__':
+    Test()
